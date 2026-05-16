@@ -1,2 +1,7 @@
+# Special Thanks: 
+  Many of the original code' completed through WeThinkCode_ && 42.fr
+    by Shaahid Mahomed though am adding further customisations and
+ enhancements to additional parts of the repositor/ies/y/ post Studies.
+
 # assembly
-A catalog of methods and works derived within the language of Assembly programming - contributions by S𝔥𝔞⁽ᵃʰⁱ⁾d M𝔞𝔥𝔬𝔪𝔢ᵈ
+Description: Workings and methods implemented in the assembly language.
